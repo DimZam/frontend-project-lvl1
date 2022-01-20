@@ -1,1 +1,1 @@
-npm ci install
+install: npm ci
